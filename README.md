@@ -13,7 +13,7 @@ Sou apaixonado por tecnologia e inovação, com formação sólida e aprendizado
 - 💾 Estudei bancos de dados relacionais: SQL, MySQL e PostgreSQL, com mais de 200 horas de curso na universidade do Rio Grande do Sul  
 - 🖥️ Formação técnica em Hardware/Software pelo SENAI  
 - 💻 Conhecimentos em JavaScript, CSS, HTML e lógica de programação através da Alura  
-- 🎮 Estudante de Tecnólogo em Jogos Digitais na Unifatecie  
+- 🎮 Estudante de Tecnólogo em Jogos Digitais na Universidade Unifatecie  
 
 ---
 
