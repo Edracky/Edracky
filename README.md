@@ -36,7 +36,7 @@ Sou apaixonado por tecnologia e inovação, com formação sólida e aprendizado
 ## 📫 Vamos nos conectar!
 
 - 📧 [edracky3@gmail.com](edracky3@gmail.com)  
-- 🌐 [https://www.linkedin.com/in/andre-mateus-792a331a8?trk=contact-info]()
+- 🌐 [[https://www.linkedin.com/in/andre-mateus-792a331a8?trk=contact-info]](https://www.linkedin.com/in/andre-mateus-792a331a8?trk=contact-info)
 ---
 
 > "Tecnologia é a arte de transformar ideias em soluções que impactam o mundo."
