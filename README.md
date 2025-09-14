@@ -9,7 +9,7 @@ Sou apaixonado por tecnologia e inovação, com formação sólida e aprendizado
 ## 🎯 Minha Jornada Acadêmica e Profissional
 
 - 🎓 Formação em Data Science pela Alura, com foco em análise, estatística e inteligência artificial  
-- 🚀 Atualmente estou no programa Tech Advanced estudando Oracle Cloud Infrastructure (OCI) certificação comcluida
+- 🚀 Atualmente estou no programa Tech Advanced estudando Oracle Cloud Infrastructure (OCI) certificação concluida
 - 💾 Estudei bancos de dados relacionais: SQL, MySQL e PostgreSQL, com mais de 200 horas de curso na universidade do Rio Grande do Sul  
 - 🖥️ Formação técnica em Hardware/Software pelo SENAI  
 - 💻 Conhecimentos em JavaScript, CSS, HTML e lógica de programação através da Alura  
